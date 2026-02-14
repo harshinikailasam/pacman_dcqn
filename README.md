@@ -111,15 +111,19 @@ Mean Squared Error (MSE)
 
 ## ▶️ Getting Started
 
-### 1. Clone the repository
+1. Clone the repository
 
+```bash
 git clone https://github.com/harshinikailasam/pacman_dcqn.git
 cd pacman_dcqn
+```
 
 
-### 2. Install dependencies
+2. Install dependencies
 
+```bash
 pip install -r requirements.txt
+```
 
 
 ### 3. Run the notebook
